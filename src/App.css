@@ -1,65 +1,10 @@
 
-.amiri-regular {
-  font-family: "Amiri", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-body {
-    font-family: "Amiri", "Cairo", sans-serif;
-    margin: 0;
-    padding-top: 50px;
-    height: 100vh;
-  }
-  
-  .App {
-    text-align: center;
-  }
-  .container {
+.container {
     max-width: 500px;
     margin-top: 1;
     margin: 20px auto;
-    background: #eaf8ff;
+    background: #929292;
     border-radius: 15px;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
-  
-  .form-group {
-    margin-bottom: 20px;
-  }
-  
-  .form-control {
-    width: 80%;
-    padding: 10px;
-    border-radius: 8px;
-    border: 1px solid #ccc;
-  }
-  
-  .text-center {
-    margin: 15px 0;
-    font-size: 1.2rem;
-  }
-  
-  .prayer-times div {
-    background: #fff;
-    padding: 15px 20px;
-    margin: 5px 0;
-    border-radius: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  
-  .prayer-times div span {
-    font-size: 1.2rem;
-    color: #333;
-  }
-  
-  #city {
-    background-color: #ffffff;
-    border: 1px solid #ccc;
-    border-radius: 8px;
-    padding: 10px;
-  }
-  
